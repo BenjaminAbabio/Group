@@ -4,7 +4,7 @@ Flask + SQLite3
 
 #### Setup
 
-- Install Flask with `pip install -U Flask` or 
+- Install Flask with `pip install Flask` 
 - Install Flask-cors
 - Install npm`
 
